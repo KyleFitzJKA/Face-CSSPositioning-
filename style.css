@@ -1,0 +1,54 @@
+/* #wrapper
+{
+width:900px;
+height:600px;
+background:#333;
+} */
+
+#abs1
+{
+width:400px;
+height:80px;
+background:black;
+position:absolute; 
+top:500px;
+left:260px;	
+}
+
+#abs2
+{
+width:100px;
+height:100px;
+background:black;
+position:absolute; 
+top: 200px;
+left:500px;
+border-radius:60px;
+}
+
+#abs3
+{
+width:100px;
+height:100px;
+background:black;
+position:absolute; 
+top: 200px;
+left:300px;
+border-radius:60px;
+}
+
+#abs4
+{
+width:80px;
+height:80px;
+background:black;
+position:absolute; 
+top: 350px;
+left:400px;
+}
+
+
+
+/** Z-index: 1; this allows me to stack the divs in the ordeer that I would like **/
+
+
